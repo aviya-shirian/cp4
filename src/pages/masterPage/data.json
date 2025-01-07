@@ -1887,6 +1887,7 @@
                 "link": {
                   "id": "1fti",
                   "pageId": "#c1dmp",
+                  "target": "_self",
                   "type": "PageLink"
                 },
                 "type": "BasicMenuItem"
@@ -1971,6 +1972,7 @@
               }
             ],
             "name": "Custom Main Menu",
+            "syncWithPages": false,
             "type": "CustomMenu"
           },
           {
@@ -2842,7 +2844,8 @@
             "saturation-fontColor": "0",
             "saturation-headerColor": "0",
             "saturation-linkColor": "0"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -2967,7 +2970,8 @@
             "brightness-borderColor": "0",
             "saturation-backgroundColor": "0",
             "saturation-borderColor": "0"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3255,7 +3259,9 @@
         "style": {
           "groups": {
             "displayer": {}
-          }
+          },
+          "properties": {},
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3560,7 +3566,8 @@
             "brwb": "0px",
             "brwt": "0px",
             "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3595,7 +3602,8 @@
             "brwb": "0px",
             "brwt": "0px",
             "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3617,7 +3625,8 @@
             "brwb": "0px",
             "brwt": "0px",
             "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3635,7 +3644,8 @@
             "brd": "color_14",
             "brwb": "0px",
             "brwt": "0px"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -3657,7 +3667,8 @@
             "brwb": "2px",
             "brwt": "2px",
             "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -4243,7 +4254,7 @@
         ],
         "bulletSize": "1.5",
         "color": [
-          "#FFFFFF",
+          "#000000",
           "#FFFFFF",
           "#000000",
           "#ED1C24",
@@ -4254,11 +4265,11 @@
           "#FFFFFF",
           "#727272",
           "#B0B0B0",
-          "#EDE9E5",
+          "#000000",
           "#BEBAB7",
           "#8E8C89",
           "#000000",
-          "#BD2000",
+          "#0032BD",
           "#D7A6A5",
           "#B67775",
           "#A11F1F",
@@ -4279,8 +4290,8 @@
           "#3E43B9",
           "#282F79",
           "#14173D",
-          "#FFFFFF",
-          "#000000",
+          "#95887B",
+          "#0032BD",
           "#E3E3E3",
           "#979797",
           "#4F4F4F",
@@ -4288,25 +4299,25 @@
           "#000000",
           "#979797",
           "#FFFFFF",
+          "#0032BD",
           "#000000",
-          "#000000",
-          "#4F4F4F",
+          "#0032BD",
           "#384AD3",
           "#384AD3",
+          "#95887B",
           "#FFFFFF",
-          "#FFFFFF",
           "#384AD3",
-          "#384AD3",
+          "#95887B",
           "#979797",
           "#979797",
-          "#FFFFFF",
-          "#FFFFFF",
+          "#95887B",
+          "#95887B",
           "#384AD3",
           "#384AD3",
-          "#384AD3",
+          "#95887B",
           "#384AD3",
           "#FFFFFF",
-          "#FFFFFF",
+          "#95887B",
           "#979797",
           "#979797"
         ],
@@ -4805,7 +4816,8 @@
             "saturation-txt2": "0",
             "txt1": "color_8",
             "txt2": "color_8"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -4926,7 +4938,8 @@
             "brd": "color_12",
             "lnw1": "3px",
             "lnw2": "2px"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
@@ -5013,7 +5026,8 @@
             "brd": "color_15",
             "brw": "0px",
             "rd": "0px"
-          }
+          },
+          "propertiesSource": {}
         },
         "styleType": "system",
         "type": "TopLevelStyle"
