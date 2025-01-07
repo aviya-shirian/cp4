@@ -1,0 +1,15 @@
+{
+  "packageManager": "yarn@4.4.1",
+  "devDependencies": {
+    "@wix/cli": "/Users/aviyash/projects/wix-cli/packages/cli",
+    "@wix/eslint-plugin-cli": "^1.0.0",
+    "eslint": "^8.25.0",
+    "react": "16.14.0"
+  },
+  "scripts": {
+    "dev": "WIX_CLI_SITE_V2=true wix dev",
+    "preview": "WIX_CLI_SITE_V2=true wix preview",
+    "publish": "WIX_CLI_SITE_V2=true wix publish",
+    "wix": "WIX_CLI_SITE_V2=true wix"
+  }
+}

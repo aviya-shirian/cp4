@@ -1,0 +1,550 @@
+{
+  "externalRefs": {
+    "comp-kbgajy18": "comp-kbgajy18",
+    "comp-kbgakgyt": "comp-kbgakgyt",
+    "comp-kd5px9hr": "comp-kd5px9hr"
+  },
+  "components": {
+    "comp-lzjsn9kg": {
+      "data": {
+        "rootCompId": "comp-kbgajy18",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjsn9ku": {
+      "data": {
+        "rootCompId": "comp-kbgakgyt",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjsn9ku5": {
+      "data": {
+        "rootCompId": "comp-kd5px9hr",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-m1gc0i8x": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc0i92": {
+      "data": {
+        "linkList": [
+          {
+            "id": "link-m1gc0i963",
+            "type": "ExternalLink",
+            "url": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+          }
+        ],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc2oco": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc2od9": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc2oda10": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc2odb13": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc3344": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc33458": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc33469": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc334713": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc3731": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc3733": {
+      "editorsettings": {
+        "dockingBehavior": "keep",
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc3734": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc3735": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc3736": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc458e": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc4593": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc4594": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc4595": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc4mbr": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc4mcc6": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc4mcd9": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc4mce11": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc4pna": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-m1gc4pnc5": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-m1gc4pnd7": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-m1gc4pne13": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "xbcji": {
+      "breakpointVariants": {
+        "componentId": "xbcji",
+        "type": "BreakpointsData",
+        "values": [
+          {
+            "canvasSize": 1280,
+            "id": "variants-lzjsn9kf1",
+            "max": 2147483647,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 768,
+            "id": "variants-lzjsn9kf2",
+            "max": 1000,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 390,
+            "id": "variants-lzjsn9kf3",
+            "max": 750,
+            "min": 320,
+            "type": "BreakpointRange"
+          }
+        ]
+      },
+      "data": {
+        "descriptionSEO": "",
+        "hidePage": false,
+        "hideTitle": true,
+        "icon": "",
+        "id": "xbcji",
+        "metaKeywordsSEO": "",
+        "pageBackgrounds": {
+          "desktop": {
+            "custom": true,
+            "isPreset": true,
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          },
+          "mobile": {
+            "custom": true,
+            "isPreset": true,
+            "mediaSizing": "viewport",
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "colorOverlay": "",
+              "colorOverlayOpacity": 0,
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          }
+        },
+        "pageTitleSEO": "",
+        "pageUriSEO": "accessibility-statement",
+        "title": "Accessibility Statement",
+        "tpaApplicationId": 0,
+        "translationData": {
+          "uriSEOTranslated": false
+        },
+        "type": "Page",
+        "underConstruction": false
+      },
+      "fixerVersions": {
+        "migration_fixer": "AAMBAQEBAQEBAQEBAQICAgECAgEIAQECAQEBAAIBAAEAAQEBAQEEAQAFAQAAAQABAQEBAQIAAQIBAAAA",
+        "type": "FixerVersions",
+        "viewer_fixer": "AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA=="
+      },
+      "mobileHints": {
+        "hidden": false,
+        "type": "MobileHints"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.page.ResponsivePageWithColorBG"
+      }
+    }
+  },
+  "appControllers": {},
+  "collections": {},
+  "version": "0.0.25"
+}

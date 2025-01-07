@@ -1,0 +1,38 @@
+<Page codeName="page1" id="umk2x">
+  <Section codeName="section5" id="comp-lzjm8afu">
+    <Container codeName="box5" id="comp-lzjmaw04">
+      <WRichText codeName="text7" id="comp-lzjm9o7r">
+        <![CDATA[<h1 class="font_0">Contact</h1>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box4" id="comp-lzjmaw3q">
+      <Container codeName="box3" id="comp-lzjpxbdj">
+        <WRichText codeName="text6" id="comp-lzjptvqc">
+          <![CDATA[<h2 class="font_4"><span>Your gateway to an<br />
+unforgettable experience.</span></h2>]]>
+        </WRichText>
+        <WRichText codeName="text5" id="comp-lzjpvkbx">
+          <![CDATA[<p class="font_7">This is the space to share the business&#39;s contact information. Let people know the best ways to get in touch and encourage them to reach out. Let&rsquo;s start planning your stay.</p>]]>
+        </WRichText>
+        <WRichText codeName="text4" id="comp-lzjpwc17">
+          <![CDATA[<p class="font_3"><span>Get in touch</span></p>]]>
+        </WRichText>
+        <WRichText codeName="text3" id="comp-lzjpwr2c">
+          <![CDATA[<p class="font_4"><span>123-456-7890<br />
+info@mysite.com</span></p>]]>
+        </WRichText>
+      </Container>
+    </Container>
+    <Container codeName="box2" id="comp-lzjmb2k3">
+      <TPAWidget codeName="form1" id="comp-lzjpnm5e" />
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-lzjpycsr">
+    <Container codeName="box1" id="comp-lzjpzcp4">
+      <TPAWidget codeName="faqWidget1" id="comp-lzjq1ony" />
+    </Container>
+  </Section>
+  <RefComponent id="comp-lzjm8ajg" />
+  <RefComponent id="comp-lzjm8ako" />
+  <RefComponent id="comp-lzjm8ahv" />
+</Page>

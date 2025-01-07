@@ -1,0 +1,675 @@
+{
+  "externalRefs": {
+    "comp-kbgajy18": "comp-kbgajy18",
+    "comp-kbgakgyt": "comp-kbgakgyt",
+    "comp-kd5px9hr": "comp-kd5px9hr"
+  },
+  "components": {
+    "aunlt": {
+      "breakpointVariants": {
+        "componentId": "aunlt",
+        "type": "BreakpointsData",
+        "values": [
+          {
+            "canvasSize": 1280,
+            "id": "variants-lzjh3qis",
+            "max": 2147483647,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 768,
+            "id": "variants-lzjh3qis1",
+            "max": 1000,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 390,
+            "id": "variants-lzjh3qis2",
+            "max": 750,
+            "min": 320,
+            "type": "BreakpointRange"
+          }
+        ]
+      },
+      "data": {
+        "descriptionSEO": "",
+        "hidePage": false,
+        "hideTitle": true,
+        "icon": "",
+        "id": "aunlt",
+        "metaKeywordsSEO": "",
+        "pageBackgrounds": {
+          "desktop": {
+            "custom": true,
+            "isPreset": true,
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          },
+          "mobile": {
+            "custom": true,
+            "isPreset": true,
+            "mediaSizing": "viewport",
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "colorOverlay": "",
+              "colorOverlayOpacity": 0,
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          }
+        },
+        "pageTitleSEO": "",
+        "pageUriSEO": "about",
+        "title": "About",
+        "tpaApplicationId": 0,
+        "translationData": {
+          "uriSEOTranslated": false
+        },
+        "type": "Page",
+        "underConstruction": false
+      },
+      "fixerVersions": {
+        "migration_fixer": "AAMBAQEBAQEBAQEBAQICAgECAgEIAQECAQEBAAIBAAEAAQEBAQEEAQAFAQAAAQABAQEBAQIAAQIBAAAA",
+        "type": "FixerVersions",
+        "viewer_fixer": "AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA=="
+      },
+      "mobileHints": {
+        "hidden": false,
+        "type": "MobileHints"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+      }
+    },
+    "comp-lzjh3qh0": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "Intro",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjh3qjm": {
+      "data": {
+        "rootCompId": "comp-kbgajy18",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjh3qlc": {
+      "data": {
+        "rootCompId": "comp-kbgakgyt",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjh3qmu": {
+      "data": {
+        "rootCompId": "comp-kd5px9hr",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjh4mqh": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjh4mu5": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjh95f1": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjjtd2m",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjh95f1",
+            "id": "variants-lzjjtd24",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjhczsw": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjjtgnu",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjhczsw",
+            "id": "variants-lzjjtgnt",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjhelmq": {
+      "behaviors": {
+        "items": "[{\"name\":\"BgParallax\",\"action\":\"bgScrub\",\"duration\":1,\"delay\":0,\"viewMode\":\"DESKTOP\"}]",
+        "type": "ObsoleteBehaviorsList"
+      },
+      "naming": {
+        "name": "Gallery",
+        "type": "naming"
+      }
+    },
+    "comp-lzjhglhn": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "Locations",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjhgqez": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjhgqi0": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjk3szn",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjhgqi0",
+            "id": "variants-lzjjtw50",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          },
+          {
+            "componentId": "comp-lzjhgqi0",
+            "id": "variants-lzjk2kpb",
+            "trigger": "view-progress",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjjfb70": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjgatt": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjhkkc": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjimsh": {
+      "data": {
+        "svgId": "11062b_8bbb78aa2d8c411aa6258a6851eac21e.svg",
+        "type": "StylableButton"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "type": "StylableButtonProperties"
+      },
+      "structure": {
+        "skin": "wixui.skins.Skinless"
+      }
+    },
+    "comp-lzjjk14q": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjjswfx",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjjk14q",
+            "id": "variants-lzjjswfu",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjjlxiv": {
+      "data": {
+        "hasAnimation": false,
+        "type": "ImageX"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wixui.skins.ImageX"
+      }
+    },
+    "comp-lzjjntbp": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "Services",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjjntc22": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjjt3gz",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjjntc22",
+            "id": "variants-lzjjt3gh",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjjntc4": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjjntc52": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjntc71": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjntc85": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjjntc96": {
+      "data": {
+        "svgId": "11062b_8bbb78aa2d8c411aa6258a6851eac21e.svg",
+        "type": "StylableButton"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "props": {
+        "type": "StylableButtonProperties"
+      },
+      "structure": {
+        "skin": "wixui.skins.Skinless"
+      }
+    },
+    "comp-lzjjntcc": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzjju4ad1",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjjntcc",
+            "id": "variants-lzjju4ac",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjjntcc4": {
+      "data": {
+        "hasAnimation": false,
+        "type": "ImageX"
+      },
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wixui.skins.ImageX"
+      }
+    }
+  },
+  "appControllers": {},
+  "collections": {},
+  "version": "0.0.25"
+}

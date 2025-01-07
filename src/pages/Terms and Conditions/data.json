@@ -1,0 +1,386 @@
+{
+  "externalRefs": {
+    "comp-kbgajy18": "comp-kbgajy18",
+    "comp-kbgakgyt": "comp-kbgakgyt",
+    "comp-kd5px9hr": "comp-kd5px9hr"
+  },
+  "components": {
+    "comp-lzjsh30p": {
+      "data": {
+        "rootCompId": "comp-kbgajy18",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjsh30q": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "Terms and Conditions",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjsh30s": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjsh30t1": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkyw995",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjsh30t1",
+            "id": "variants-lzkyw98n",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjsh30v5": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjsh30w7": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkywc6p",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjsh30w7",
+            "id": "variants-lzkywc6n",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjsh30x6": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjsh30z4": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh3108": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh3113": {
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjsh312": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh313": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh31311": {
+      "editorsettings": {
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjsh3147": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh315": {
+      "data": {
+        "linkList": [
+          {
+            "id": "textLink_lztn7bgr",
+            "type": "ExternalLink",
+            "url": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+          }
+        ],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjsh31511": {
+      "data": {
+        "rootCompId": "comp-kbgakgyt",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjsh3161": {
+      "data": {
+        "rootCompId": "comp-kd5px9hr",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "tmudi": {
+      "breakpointVariants": {
+        "componentId": "tmudi",
+        "type": "BreakpointsData",
+        "values": [
+          {
+            "canvasSize": 1280,
+            "id": "variants-lzjsh30n1",
+            "max": 2147483647,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 768,
+            "id": "variants-lzjsh30n2",
+            "max": 1000,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 390,
+            "id": "variants-lzjsh30n3",
+            "max": 750,
+            "min": 320,
+            "type": "BreakpointRange"
+          }
+        ]
+      },
+      "data": {
+        "descriptionSEO": "",
+        "hidePage": false,
+        "hideTitle": true,
+        "icon": "",
+        "id": "tmudi",
+        "metaKeywordsSEO": "",
+        "pageBackgrounds": {
+          "desktop": {
+            "custom": true,
+            "isPreset": true,
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          },
+          "mobile": {
+            "custom": true,
+            "isPreset": true,
+            "mediaSizing": "viewport",
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "colorOverlay": "",
+              "colorOverlayOpacity": 0,
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          }
+        },
+        "pageTitleSEO": "",
+        "pageUriSEO": "terms-and-conditions",
+        "title": "Terms and Conditions",
+        "tpaApplicationId": 0,
+        "translationData": {
+          "uriSEOTranslated": false
+        },
+        "type": "Page",
+        "underConstruction": false
+      },
+      "fixerVersions": {
+        "migration_fixer": "AAMBAQEBAQEBAQEBAQICAgECAgEIAQECAQEBAAIBAAEAAQEBAQEEAQAFAQAAAQABAQEBAQIAAQIBAAAA",
+        "type": "FixerVersions",
+        "viewer_fixer": "AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA=="
+      },
+      "mobileHints": {
+        "hidden": false,
+        "type": "MobileHints"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.page.ResponsivePageWithColorBG"
+      }
+    }
+  },
+  "appControllers": {},
+  "collections": {},
+  "version": "0.0.25"
+}

@@ -1,0 +1,287 @@
+<Page codeName="page1" id="c1dmp">
+  <RefComponent id="comp-kbgakxea" />
+  <Section codeName="section1" id="comp-kbgaghri">
+    <Container codeName="box36" id="comp-lzf7mxel">
+      <WRichText codeName="text39" id="comp-lzf9t4bm">
+        <![CDATA[<h1 class="font_0"><span>The Reed</span></h1>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box35" id="comp-lzf7mxht">
+      <ImageX alt="left img.jpg" codeName="imageX23" displayMode="fill" id="comp-lzf9wx48" name="left img.jpg" src="c837a6_678212708a7d47318263d34ef3292e15~mv2.png?width=588&amp;height=526" />
+    </Container>
+    <Container codeName="box34" id="comp-lzf7o2m7">
+      <ImageX alt="right img.jpg" codeName="imageX22" displayMode="fill" id="comp-lzf9vbp2" name="right img.jpg" src="c837a6_477bd63a8590463ca9d959c68cd1c1d3~mv2.png?width=589&amp;height=525" />
+    </Container>
+    <Container codeName="box33" id="comp-lzf7o4n4">
+      <ImageX alt="" codeName="imageX21" displayMode="fill" id="comp-lzf9wvaf" name="Hero-2.jpg" src="c837a6_983528eb3b2b4e0b96b7c212f371f038~mv2.jpg?width=9264&amp;height=5192" />
+    </Container>
+  </Section>
+  <Section codeName="section11" id="comp-lzfafek2">
+    <Container codeName="box32" id="comp-lzfagoz6">
+      <WRichText codeName="text38" id="comp-lzfagit1">
+        <![CDATA[<h2 class="font_2"><span>Urban Boutique Hotel<br />
+Escape the Ordinary</span></h2>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box31" id="comp-lzfagp1w">
+      <StylableButton codeName="button7" id="comp-lzfaij5e">
+        Get a Closer Look
+      </StylableButton>
+    </Container>
+  </Section>
+  <Section codeName="section10" id="comp-lzfajvhz">
+    <Container codeName="box30" id="comp-lzfajxeh">
+      <WRichText codeName="text37" id="comp-lzfamueg">
+        <![CDATA[<h2 class="font_5"><span>Nestled in the heart of this vibrant city, our hotel is a sanctuary of peace and luxury, complete with a rooftop garden and bar. Reconnect with yourself amidst the city&#39;s pulse.</span></h2>]]>
+      </WRichText>
+      <WRichText codeName="text36" id="comp-lzfav576">
+        <![CDATA[<p class="font_7"><span>This is the space to introduce the business and what it has to offer. Define the qualities and values that make it unique.</span></p>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box29" id="comp-lzfajxh4">
+      <ImageX alt="image 2.jpg" codeName="imageX20" displayMode="fill" id="comp-lzfaqthg" name="image 2.jpg" src="c837a6_6a0bc20f1ef0421d9616ca4b912d0159~mv2.jpg?width=1176&amp;height=1562" />
+    </Container>
+  </Section>
+  <Section codeName="section9" id="comp-lzfbstnj">
+    <Container codeName="box28" id="comp-lzfbw1zm">
+      <WRichText codeName="text35" id="comp-lzfbwn8z">
+        <![CDATA[<h2 class="font_2"><span>Rooms &amp; Suites</span></h2>]]>
+      </WRichText>
+      <FiveGridLine codeName="line1" id="comp-lzfbyi0t" />
+    </Container>
+    <Container codeName="box27" id="comp-lzfbw22e">
+      <AccordionContainer codeName="accordion1" id="comp-lzfc00p7">
+        <AccordionItem codeName="accordionItem3" id="comp-lzfc00pb6">
+          <Container codeName="box26" id="comp-lzrzz8oo">
+            <Container codeName="box25" id="comp-lzrzz6ox">
+              <WRichText codeName="text14" id="comp-lzfc00ph4">
+                <![CDATA[<p class="font_7">This is the space to describe the product. Write a short overview that includes important features, pricing and other relevant info for a potential buyer. Consider adding an image or video to show off the product and entice visitors to make a purchase.</p>]]>
+              </WRichText>
+              <WRichText codeName="text34" id="comp-lzfc9vq2">
+                <![CDATA[<ul class="font_7">
+	<li>
+	<p class="font_7">Cityscape View</p>
+	</li>
+	<li>
+	<p class="font_7">King Size Bed</p>
+	</li>
+	<li>
+	<p class="font_7">Private Terrace</p>
+	</li>
+	<li>
+	<p class="font_7">Walk-In Shower</p>
+	</li>
+	<li>
+	<p class="font_7">In-Room Bar</p>
+	</li>
+</ul>]]>
+              </WRichText>
+              <Container codeName="box24" id="comp-lzfdcq3d">
+                <VectorImage codeName="vectorImage15" displayMode="fit" id="comp-lzfcbfse" src="c837a6_d0a2bc3add0e4f65a9de76f399edef67.svg" title="cityscape view.svg" />
+                <VectorImage codeName="vectorImage14" displayMode="fit" id="comp-lzfcbsj1" src="c837a6_4f86e41ebf45471b814eb40fa7222348.svg" title="King bed.svg" />
+                <VectorImage codeName="vectorImage13" displayMode="fit" id="comp-lzfcbt4k" src="c837a6_6ac1346383a546e3945987d98c0eac38.svg" title="private terrace.svg" />
+                <VectorImage codeName="vectorImage12" displayMode="fit" id="comp-lzfcbtn8" src="c837a6_c472d3580aee46cfb2fa7c5b87c4613a.svg" title="round shower icon.svg" />
+                <VectorImage codeName="vectorImage11" displayMode="fit" id="comp-lzfcbu1x" src="c837a6_5ba8053379f641a0bf6bca1ffc0ddd31.svg" title="bar room.svg" />
+              </Container>
+              <StylableButton codeName="button6" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzrzyuhm">
+                Book Now
+              </StylableButton>
+            </Container>
+            <ImageX alt="Rectangle 75-2.jpg" codeName="imageX4" id="comp-lzfc00pk4" name="Rectangle 75-2.jpg" src="c837a6_528f46ba1c544a609e4fc8ddbe239094~mv2.jpg?width=1215&amp;height=1064" />
+          </Container>
+        </AccordionItem>
+        <AccordionItem codeName="accordionItem5" id="comp-lzfe93qh">
+          <Container codeName="box23" id="comp-lzs06lym">
+            <Container codeName="box22" id="comp-lzs06jyl">
+              <WRichText codeName="text33" id="comp-lzfe93qq4">
+                <![CDATA[<p class="font_7">This is the space to describe the product. Write a short overview that includes important features, pricing and other relevant info for a potential buyer. Consider adding an image or video to show off the product and entice visitors to make a purchase.</p>]]>
+              </WRichText>
+              <WRichText codeName="text32" id="comp-lzfe93qs8">
+                <![CDATA[<ul class="font_7">
+	<li>
+	<p class="font_7">Skyline View</p>
+	</li>
+	<li>
+	<p class="font_7">Queen Bed</p>
+	</li>
+	<li>
+	<p class="font_7">Outdoor Lounge</p>
+	</li>
+	<li>
+	<p class="font_7">Smart Home Tech</p>
+	</li>
+	<li>
+	<p class="font_7">Rooftop Access</p>
+	</li>
+</ul>]]>
+              </WRichText>
+              <Container codeName="box21" id="comp-lzfe93qt11">
+                <VectorImage codeName="vectorImage10" displayMode="fit" id="comp-lzfe93qu3" src="c837a6_d0a2bc3add0e4f65a9de76f399edef67.svg" title="cityscape view.svg" />
+                <VectorImage codeName="vectorImage9" displayMode="fit" id="comp-lzfe93qv2" src="c837a6_bda3b4a1a2a7469cb7cd7594b4d9cc9b.svg" title="queen bed.svg" />
+                <VectorImage codeName="vectorImage8" displayMode="fit" id="comp-lzfe93qv12" src="c837a6_5ed5d232aef242bc8a5775542a2df311.svg" title="outdoor lounge.svg" />
+                <VectorImage codeName="vectorImage7" displayMode="fit" id="comp-lzfe93qw8" src="c837a6_39283b4851644a85abe66362ef79521b.svg" title="smart home tech.svg" />
+                <VectorImage codeName="vectorImage6" displayMode="fit" id="comp-lzfe93qw18" src="c837a6_b313ddf62fbe48429e45e14b49f23440.svg" title="rooftop.svg" />
+              </Container>
+              <StylableButton codeName="button5" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzs067i6">
+                Book Now
+              </StylableButton>
+            </Container>
+            <ImageX alt="Rectangle 75.jpg" codeName="imageX19" id="comp-lzfe93qn5" name="Rectangle 75.jpg" src="c837a6_1c602052178246bd94040b973de2e269~mv2.jpg?width=1215&amp;height=1064" />
+          </Container>
+        </AccordionItem>
+        <AccordionItem codeName="accordionItem4" id="comp-lzfe967w">
+          <Container codeName="box20" id="comp-lzs09ipc">
+            <Container codeName="box19" id="comp-lzs09gia">
+              <WRichText codeName="text31" id="comp-lzfe96854">
+                <![CDATA[<p class="font_7">This is the space to describe the product. Write a short overview that includes important features, pricing and other relevant info for a potential buyer. Consider adding an image or video to show off the product and entice visitors to make a purchase.</p>]]>
+              </WRichText>
+              <WRichText codeName="text30" id="comp-lzfe96871">
+                <![CDATA[<ul class="font_7">
+	<li>
+	<p class="font_7">Industrial Chic</p>
+	</li>
+	<li>
+	<p class="font_7">Full Bed</p>
+	</li>
+	<li>
+	<p class="font_7">Open Layout</p>
+	</li>
+	<li>
+	<p class="font_7">Sound System</p>
+	</li>
+	<li>
+	<p class="font_7">Minimalist Design</p>
+	</li>
+</ul>]]>
+              </WRichText>
+              <Container codeName="box18" id="comp-lzfe96888">
+                <VectorImage codeName="vectorImage5" displayMode="fit" id="comp-lzfe968812" src="c837a6_624bddc9b8be438aa917914e065b07f0.svg" title="industrial chic.svg" />
+                <VectorImage codeName="vectorImage4" displayMode="fit" id="comp-lzfe96899" src="c837a6_4f86e41ebf45471b814eb40fa7222348.svg" title="King bed.svg" />
+                <VectorImage codeName="vectorImage3" displayMode="fit" id="comp-lzfe968a1" src="c837a6_2349b471dce04f2ab3a65d21f0601b97.svg" title="open layout.svg" />
+                <VectorImage codeName="vectorImage2" displayMode="fit" id="comp-lzfe968a11" src="c837a6_1db7ed7600234a74b91879d68b0b3ae1.svg" title="sound system.svg" />
+                <VectorImage codeName="vectorImage1" displayMode="fit" id="comp-lzfe968b3" src="c837a6_b880c29261c84e03a2e46e30978c8076.svg" title="minimalist design.svg" />
+              </Container>
+              <StylableButton codeName="button4" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzs0921a">
+                Book Now
+              </StylableButton>
+            </Container>
+            <ImageX alt="Rectangle 75-1.jpg" codeName="imageX18" displayMode="fill" id="comp-lzfe9684" name="Rectangle 75-1.jpg" src="c837a6_81270a0d0ab44ea7aebb5ff0abf6f341~mv2.jpg?width=1215&amp;height=1064" />
+          </Container>
+        </AccordionItem>
+      </AccordionContainer>
+    </Container>
+  </Section>
+  <Section codeName="section8" id="comp-lzfevrt0">
+    <Container codeName="box17" id="comp-lzi21r9n">
+      <WRichText codeName="text29" id="comp-lzi20m7l">
+        <![CDATA[<h2 class="font_2"><span>Experience it Yourself</span></h2>]]>
+      </WRichText>
+      <WRichText codeName="text28" id="comp-lzi2116z">
+        <![CDATA[<h3 class="font_3"><span>Stay, Relax, Dine</span></h3>]]>
+      </WRichText>
+    </Container>
+    <ImageX alt="pool.jpg" codeName="imageX17" displayMode="fit" id="comp-lzjuval6" name="pool.jpg" src="c837a6_769c86d637724c2bb43a09a000fe89a9~mv2.jpg?width=902&amp;height=1161" />
+    <ImageX alt="lobby.jpg" codeName="imageX16" displayMode="fit" id="comp-lzjuv7ey" name="lobby.jpg" src="c837a6_3e6ea4a493b8437e9d15fb6a60f8ec4f~mv2.jpg?width=892&amp;height=561" />
+    <ImageX alt="bed.jpg" codeName="imageX15" displayMode="fit" id="comp-lzjuv8vq" name="bed.jpg" src="c837a6_83f93035a8ac48c5a0a1418b106a4fb3~mv2.jpg?width=999&amp;height=1229" />
+    <ImageX alt="entree.jpg" codeName="imageX14" displayMode="fit" id="comp-lzjuvcct" name="entree.jpg" src="c837a6_d695a2ba91114dfc867d2b280f107b71~mv2.jpg?width=1230&amp;height=750" />
+  </Section>
+  <Section codeName="section7" id="comp-lzi2jz0d">
+    <Container codeName="box16" id="comp-lzjvnpoc">
+      <ImageX alt="pool image.jpg" codeName="imageX13" displayMode="fill" id="comp-lzjvq9w4" name="pool image.jpg" src="c837a6_77233adbffaa421fb189bbf7735a8054~mv2.jpg?width=1084&amp;height=1498" />
+    </Container>
+    <Container codeName="box15" id="comp-lzjvnpuv">
+      <Container codeName="box14" id="comp-lzs1fwn2">
+        <WRichText codeName="text27" id="comp-lzjvv85x">
+          <![CDATA[<h2 class="font_2"><span>Pool &amp; Rooftop</span></h2>]]>
+        </WRichText>
+        <WRichText codeName="text26" id="comp-lzjvwet4">
+          <![CDATA[<h3 class="font_4"><span>Find your serenity in the heart of the city</span></h3>]]>
+        </WRichText>
+        <WRichText codeName="text25" id="comp-lzjvx4k4">
+          <![CDATA[<p class="font_7">Use this space to promote the business, its products or its services. Help people become familiar with the business and its offerings, creating a sense of connection and trust. Focus on what makes the business unique and how users can benefit from choosing it.</p>]]>
+        </WRichText>
+        <StylableButton codeName="button3" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzjvxrju">
+          Book Now
+        </StylableButton>
+      </Container>
+    </Container>
+  </Section>
+  <Section codeName="section6" id="comp-lzjw0znz">
+    <Container codeName="box13" id="comp-lzjy7bvt">
+      <WRichText codeName="text24" id="comp-lzjy7bvv3">
+        <![CDATA[<h2 class="font_2"><span>Culinary Experience</span></h2>]]>
+      </WRichText>
+      <WRichText codeName="text23" id="comp-lzjy7bvw5">
+        <![CDATA[<h3 class="font_4"><span>Taste the City, savor the Moment</span></h3>]]>
+      </WRichText>
+      <WRichText codeName="text22" id="comp-lzjy7bvw16">
+        <![CDATA[<p class="font_7">Use this space to promote the business, its products or its services. Help people become familiar with the business and its offerings, creating a sense of connection and trust. Focus on what makes the business unique and how users can benefit from choosing it.</p>]]>
+      </WRichText>
+      <StylableButton codeName="button2" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzjy7bvy8">
+        Book Now
+      </StylableButton>
+    </Container>
+  </Section>
+  <Section codeName="section5" id="comp-lzjy96dv">
+    <Container codeName="box12" id="comp-lzjz44g4">
+      <ImageX alt="Rectangle 205.jpg" codeName="imageX12" displayMode="fill" id="comp-lzjyatq2" name="Rectangle 205.jpg" src="c837a6_2ecf3f743947436fbdfba0b9abe8db62~mv2.jpg?width=860&amp;height=479" />
+    </Container>
+    <Container codeName="box11" id="comp-lzjz48y5">
+      <ImageX alt="Rectangle 201.jpg" codeName="imageX11" displayMode="fill" id="comp-lzjyanzh" name="Rectangle 201.jpg" src="c837a6_13103e8e69c9442ca1155a28e5653810~mv2.jpg?width=1268&amp;height=1256" />
+    </Container>
+    <Container codeName="box10" id="comp-lzjz4cr7">
+      <ImageX alt="Rectangle 202.jpg" codeName="imageX10" displayMode="fill" id="comp-lzjyat1q" name="Rectangle 202.jpg" src="c837a6_fb8b079501ad43deac12388aac9e7d91~mv2.jpg?width=1064&amp;height=1474" />
+    </Container>
+    <Container codeName="box9" id="comp-lzjz4ffz">
+      <ImageX alt="Rectangle 204.jpg" codeName="imageX9" displayMode="fill" id="comp-lzjyasfw" name="Rectangle 204.jpg" src="c837a6_8062619e5a204cd3933d2be501b94e9e~mv2.jpg?width=580&amp;height=814" />
+    </Container>
+    <Container codeName="box8" id="comp-lzjz4j3k">
+      <ImageX alt="Rectangle 203.jpg" codeName="imageX8" displayMode="fill" id="comp-lzjyarpp" name="Rectangle 203.jpg" src="c837a6_14b87864fe2741cdb96d0254a52520ce~mv2.jpg?width=1678&amp;height=887" />
+    </Container>
+    <Container codeName="box7" id="comp-lzs4234s">
+      <WRichText codeName="text21" id="comp-lzs40t0e">
+        <![CDATA[<blockquote class="font_3"><span>&ldquo;Hospitality at its finest.&rdquo;</span></blockquote>]]>
+      </WRichText>
+      <WRichText codeName="text20" id="comp-lzs41n2o">
+        <![CDATA[<p class="font_4"><span>&ndash; The Daily Tribune</span></p>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box6" id="comp-lzs42o6u">
+      <WRichText codeName="text19" id="comp-lzs42o6x">
+        <![CDATA[<blockquote class="font_3"><span>&ldquo;An unforgettable experience in every way.&rdquo;</span></blockquote>]]>
+      </WRichText>
+      <WRichText codeName="text18" id="comp-lzs42o6y">
+        <![CDATA[<p class="font_4"><span>&ndash; RAD Magazine</span></p>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box5" id="comp-lzs43qrx">
+      <WRichText codeName="text17" id="comp-lzs43qrz8">
+        <![CDATA[<blockquote class="font_3"><span>&ldquo;&ldquo;Fresh, flavorful, and fantastic!&rdquo;</span></blockquote>]]>
+      </WRichText>
+      <WRichText codeName="text16" id="comp-lzs43qs06">
+        <![CDATA[<p class="font_4"><span>&ndash; Culinary Chronicles</span></p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-lzi2k8f7">
+    <Container codeName="box4" id="comp-lzi2kghl">
+      <WRichText codeName="text15" id="comp-lzi2lnua">
+        <![CDATA[<h2 class="font_3">Follow Us on Instagram <a dataquery="#textLink_lzqqw0jw">@The Reed</a></h2>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box3" id="comp-lzi2kgky">
+      <StylableButton codeName="button1" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzqv2q1v">
+        View All
+      </StylableButton>
+    </Container>
+    <Container codeName="box2" id="comp-lzi2kiz2">
+      <Container codeName="box1" id="comp-lzi2qwfw">
+        <ImageX alt="Rectangle 4.jpg" codeName="imageX7" displayMode="fill" id="comp-lzi2otef" name="Rectangle 4.jpg" src="c837a6_5ed98226337d4861880150f75c460eb3~mv2.jpg?width=834&amp;height=831" />
+        <ImageX alt="Rectangle 4-2.jpg" codeName="imageX6" displayMode="fill" id="comp-lzi2qo3h" name="Rectangle 4-2.jpg" src="c837a6_24a48236060247809f9a1696d28650fe~mv2.jpg?width=832&amp;height=831" />
+        <ImageX alt="Rectangle 4-1.jpg" codeName="imageX5" displayMode="fill" id="comp-lzi2qos9" name="Rectangle 4-1.jpg" src="c837a6_a00ecb52b8f24054bff899a48fc4f06e~mv2.jpg?width=826&amp;height=831" />
+      </Container>
+    </Container>
+  </Section>
+  <RefComponent id="comp-kbgakxmn" />
+  <RefComponent id="comp-kd5px9q0" />
+</Page>

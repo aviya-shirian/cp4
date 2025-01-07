@@ -1,0 +1,6 @@
+<Page codeName="page1" id="bgy5l">
+  <RefComponent id="comp-lzi2ngss" />
+  <Section codeName="section4" id="comp-lzi2ngv7">
+    <TPAMultiSection codeName="fullscreenPage1" id="TPAMultiSection_lzi2neps" />
+  </Section>
+</Page>

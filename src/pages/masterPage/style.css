@@ -1,0 +1,3939 @@
+#comp-kbgajy18 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 102.796875px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: 0.8148425927662047fr 1.3726585791161194fr 0.8124988281176757fr;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 1vw;
+  grid-template-rows: minmax(90px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kbgajy18.variants-ljclok8y2 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 67.875px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: 2.0307692307692307fr 0.9692307692307692fr 1fr;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 1vw;
+  grid-template-rows: minmax(63.984399999999994px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kbgajy18.variants-ljclok8y1 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 67px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 0vw;
+  grid-template-rows: minmax(67px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kbgakgyt {
+  design-background-colorLayers: [{"fill":{"color":"#360A0A","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 584.453125px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: 0.5fr 0.5fr;
+  padding-bottom: 2.890625vw;
+  padding-left: 3.90625vw;
+  padding-right: 3.9vw;
+  padding-top: 2.03125vw;
+  grid-template-rows: minmax(227.65101614296145px,auto) minmax(259.7448634651519px,auto) minmax(34.0572203918866px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 7;
+  grid-row-start: 6;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kbgakgyt.variants-ljclok921 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  column-gap: 0spx;
+  grid-template-columns: 0.46480938416422285fr 0.5351906158357771fr;
+  padding-bottom: 4.557291666666667vw;
+  padding-left: 3.9vw;
+  padding-right: 3.9vw;
+  padding-top: 3.3854166666666665vw;
+  row-gap: 0spx;
+  grid-template-rows: minmax(27.718spx,auto) minmax(18.251spx,auto) minmax(7.249spx,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 7;
+  grid-row-start: 6;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kbgakgyt.variants-ljclok922 {
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  column-gap: 0spx;
+  grid-template-columns: minmax(0px,1fr);
+  padding-bottom: 0%;
+  padding-left: 3.9vw;
+  padding-right: 3.9vw;
+  padding-top: 6.666666666666667vw;
+  row-gap: 0spx;
+  grid-template-rows: minmax(205.908spx,auto) minmax(180.311spx,auto) minmax(69.422spx,auto) minmax(37.639spx,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 7;
+  grid-row-start: 6;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 31.25%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(255,255,255);
+  font-size: 14px;
+  letter-spacing: 0em;
+  line-height: normal;
+  text-align: center;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 38.96627565982405%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0.03125px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kd5pdf7t.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  color: rgb(255,255,255);
+  font-size: 14px;
+  letter-spacing: 0em;
+  line-height: normal;
+  text-align: center;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr {
+  height: 100vh;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 300px;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,1fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(0px,1fr);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.MenuContainer;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_15),0.8);
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr.variants-ljclok925 {
+  height: 100vh;
+  max-width: 99999px;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100vw;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,390fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(0px,1fr);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kd5px9kk {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 60%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 200px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 100px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 18px initial);
+  style-style-fntSubMenu-overrides-fontSize: "15px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_18";
+  style-style-txtsSub-value: "color_18";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok925 {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 46.15384615384615%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 200px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 100px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 16px initial);
+  style-style-fntSubMenu-overrides-fontSize: "14px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_18));
+  style-style-txtexpanded-value: "color_18";
+  style-style-txts-value: "color_15";
+  style-style-txtsSub-value: "color_15";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok924 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 18px initial);
+  style-style-fntSubMenu-overrides-fontSize: "15px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_18));
+  style-style-txtexpanded-value: "color_18";
+  style-style-txts-value: "color_15";
+  style-style-txtsSub-value: "color_15";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kkmqi5tc {
+  override-color1: color_15;
+  opacity: 1;
+  stroke: disabled(rgba(237,21,102,1) 1px);
+  design-type: VectorImageDesignData;
+  height: 20px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 20px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 40px;
+  item-margin-top: 40px;
+  position: sticky;
+  top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-liu7a4zw {
+  opacity: 1;
+  design-type: VectorImageDesignData;
+  height: 58px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 58px;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 2.44spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-liu7a4zw.variants-ljclok8y1 {
+  height: 58px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 58px;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 5.308spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-liu7a4zw.variants-ljclok8y2 {
+  height: 24px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 24px;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 5.28125spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi30 {
+  height: 35px;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 35px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 29.2327880859375%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuRoot;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi30.variants-ljclok8y1 {
+  height: 27px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 46px;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 3.9vw;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi30.variants-ljclok8y2 {
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 8%;
+  item-margin-top: 5.128205128205129vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi38 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1263;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding: 0px\;border: 0px solid #949494\;border-radius: 0px\;box-shadow:\;background: rgba(255, 255, 255, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid #000000\;\\n}.root:hover::icon {\\n    transform: rotate(0deg)\;\\n    fill: value(site_2_3)\;}.root:hover::label {\\n    color: #FFFFFF\;\\n}.root:disabled{border: 0px solid #000000\;background: #EEEEEE}.root:disabled::label{\\n    color: #4F4F4F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: center\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;color: #000000\;-st-mixin: font_8\;font-family: madefor-text\;font-size: 16px\;font-style: normal\;font-weight: normal\;line-height: 1.4em\;margin-right: 0px\;margin-left: 0px\;margin-top: 0px\;margin-bottom: 0px\;display: none}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;width: 60px\;height: 60px\;margin-left: 0px\;margin-right: 0px\;margin-bottom: 0px\;margin-top: 0px\;fill: value(site_1_5)\;display: initial}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi38.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOpenButton\;\\n}\\n.root{\\n    -st-extends: HamburgerOpenButton\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}\\n.root::icon {}\\n.root:hover::icon {}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi38.variants-ljclok8y1 {
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOpenButton\;\\n}\\n.root{\\n    -st-extends: HamburgerOpenButton\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}\\n.root::icon {}\\n.root:hover::icon {}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c {
+  height: 300px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 300px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 980px;
+  grid-template-columns: 1fr;
+  hide-scroll-bar: true;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {-st-from: 'wix-ui-santa/index.st.css'\; -st-named: HamburgerOverlay\;} .root { -st-extends: HamburgerOverlay\; background-color: rgba(0,0,0,0.8)\; }";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c.variants-ljclok8y1 {
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOverlay\;\\n}\\n.root{\\n    -st-extends: HamburgerOverlay\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOverlay\;\\n}\\n.root{\\n    -st-extends: HamburgerOverlay\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 79px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 40%;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,512fr);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(79px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {-st-from: 'wix-ui-santa/index.st.css'\; -st-named: HamburgerMenuContainer\;} .root { -st-extends: HamburgerMenuContainer\; background-color: #FFFFFF\; }";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 79px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,390fr);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(79px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerMenuContainer\;\\n}\\n.root{\\n    -st-extends: HamburgerMenuContainer\;\\n    background-color: rgb(237,233,229)\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5.variants-ljclok8y1 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 79px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,768.0005fr);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(79px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerMenuContainer\;\\n}\\n.root{\\n    -st-extends: HamburgerMenuContainer\;\\n    background-color: value(site_1_1)\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3i1 {
+  height: 20px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 20px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 45.890625px;
+  item-margin-top: 34.5px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerCloseButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 0px\;border-radius: 300px\;background: rgba(255, 255, 255, 0)}.root:hover {\\n    background: #FFFFFF\;\\n    border: 0px solid #000000\;\\n    border-radius: 0px\;\\n}.root:hover::icon {\\n    fill: #000000\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: #000000\;\\n}.root:disabled{\\n    background: #EEEEEE}.root:disabled::label{\\n    color: #4F4F4F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: center\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;color: #FFFFFF\;-st-mixin: font_8\;font-family: madefor-text\;font-size: 16px\;font-style: normal\;font-weight: normal\;line-height: 1.4em\;display: none\;margin-left: 1px}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;display: initial\;transform: rotate(0deg)\;fill: #000000\;width: 28px\;height: 28px\;margin-right: 1px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3i1.variants-ljclok8y1 {
+  height: 28px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 28px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 3.8981119791666665vw;
+  item-margin-top: 2.4800618489583335vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerCloseButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerCloseButton\;\\n}\\n.root{\\n    -st-extends: HamburgerCloseButton\;\\n}\\n.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n}\\n.root::icon {\\n    fill: value(site_1_5)\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3i1.variants-ljclok8y2 {
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 3.8981119791666665vw;
+  item-margin-top: 5vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerCloseButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 373;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerCloseButton\;\\n}\\n.root{\\n    -st-extends: HamburgerCloseButton\;\\n}\\n.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxubhuix {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "#000000";
+  background: rgba(255,255,255,0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "#FFFFFF";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "#FFFFFF";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "#000000";
+  border-color: rgba(0,0,0,0);
+  border-width: 0px;
+  font: {"overrides":{"color":"#000000","fontFamily":"madefor-text","fontSize":"16px","fontStyle":"normal","fontVariant":"normal","fontWeight":"normal","letterSpacing":"0em","lineHeight":"1.4em"},"value":"font_8"};
+  style-style-fntSubMenu-overrides-color: "#000000";
+  style-style-fntSubMenu-overrides-fontFamily: "madefor-text";
+  style-style-fntSubMenu-overrides-fontSize: "14px";
+  style-style-fntSubMenu-overrides-fontStyle: "normal";
+  style-style-fntSubMenu-overrides-fontVariant: "normal";
+  style-style-fntSubMenu-overrides-fontWeight: "normal";
+  style-style-fntSubMenu-overrides-letterSpacing: "0em";
+  style-style-fntSubMenu-overrides-lineHeight: "1.4em";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(0,0,0);
+  style-style-txtexpanded-value: "#000000";
+  style-style-txts-value: "#1A6AFF";
+  style-style-txtsSub-value: "#1A6AFF";
+  padding-vertical: 10;
+  style-type: ComponentStyle;
+}
+
+#comp-lxubhuix.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxubhuix.variants-ljclok8y1 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 93.27693567193431%;
+  align-self: center;
+  item-margin-bottom: 5px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "#000000";
+  background: rgba(255,255,255,0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "#FFFFFF";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "#FFFFFF";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "#000000";
+  border-color: rgba(0,0,0,0);
+  border-width: 0px;
+  font: {"overrides":{"color":"#000000","fontFamily":"madefor-text","fontSize":"40px","fontStyle":"normal","fontVariant":"normal","fontWeight":"normal","letterSpacing":"0em","lineHeight":"1.4em"},"value":"font_8"};
+  style-style-fntSubMenu-overrides-color: "#000000";
+  style-style-fntSubMenu-overrides-fontFamily: "madefor-text";
+  style-style-fntSubMenu-overrides-fontSize: "14px";
+  style-style-fntSubMenu-overrides-fontStyle: "normal";
+  style-style-fntSubMenu-overrides-fontVariant: "normal";
+  style-style-fntSubMenu-overrides-fontWeight: "normal";
+  style-style-fntSubMenu-overrides-letterSpacing: "0em";
+  style-style-fntSubMenu-overrides-lineHeight: "1.4em";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_19";
+  style-style-txtsSub-value: "color_19";
+  padding-vertical: 10;
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa2nzn {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa2nzn.variants-ljclok8y2 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa2nzn.variants-ljclok8y1 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa2o5s {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa2o5s.variants-ljclok8y2 {
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa2o5s.variants-ljclok8y1 {
+  align-self: stretch;
+  grid-column-end: 4;
+  grid-column-start: 3;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa2qn5 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa2qn5.variants-ljclok8y2 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa2qn5.variants-ljclok8y1 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzfa3vcv {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{\\n    -st-from:'wix-ui-santa/index.st.css'\;\\n    -st-named:StylableHorizontalMenu\\n}\\n.root{\\n    -st-extends:StylableHorizontalMenu\;\\n    background: rgba(255,255,255,0)\;\\n    border: 0px solid rgba(255, 255, 255, 0)\\n}\\n.root::menu{\\n    flex-grow:1\;\\n    direction: ltr\;\\n    justify-content: center\;\\n    height: calc(100% + 8px)\;\\n    margin-top: -4px\;\\n    margin-bottom: -4px\;\\n    width: calc(100% + 20px)\;\\n    margin-left: -10px\;\\n    margin-right: -10px\\n}\\n.root::menuItem{\\n    border-radius: 0px\;\\n    border: 2px solid #000000\;\\n    border-left: 0px solid #000000\;\\n    border-right: 0px solid #000000\;\\n    background: rgba(255, 255, 255, 0)\;\\n    margin-top: 4px\;\\n    margin-bottom: 4px\;\\n    padding-left: 10px\;\\n    padding-right: 10px\;\\n    padding-top: 10px\;\\n    padding-bottom: 10px\;\\n    border-top: 0px solid rgba(255, 255, 255, 0)\;\\n    border-bottom: 0px solid rgba(255, 255, 255, 0)\;\\n    margin-left: 10px\;\\n    margin-right: 10px\\n}\\n.root::menuItem:hover {}\\n.root::menuItem::label{\\n    -st-mixin: font_8\;font-family: madefor-text\;font-size: 15px\;font-style: normal\;font-weight: normal\;letter-spacing: 0em\;line-height: 1.4em\;\\n    letter-spacing: 0em\;\\n    color: value(site_1_5)\\n}\\n.root::menuItem::container{\\n    justify-content:center\\n}\\n.root::rightAlignmentScrollItem{\\n    --flexGrow:1\;\\n    flex-grow: 1\\n}\\n.root::scrollButton{\\n    border:0 solid #757575\;\\n    padding:10px\;\\n    background:#FFF\;\\n    padding-top:0px\;\\n    padding-bottom:0px\\n}\\n.root::scrollButton:hover{\\n    background:#FCF7E6\\n}\\n.root::scrollButton::icon{\\n    width:16px\;\\n    height:16px\;\\n    fill:#9E3B1B\\n}\\n.root::positionBox{\\n    margin-left:20px\;\\n    margin-right:20px\\n}\\n.root::columnsLayout{\\n    margin-top:0px\;\\n    --flyoutAlignment: left\;\\n    --horizontalSpacing: 8\;\\n    padding: 6px\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid rgba(255, 255, 255, 0)\\n}\\n.root::leftAlignmentScrollItem {\\n    flex-grow: 1\;\\n}\\n.root::columnsLayout::listWrapper{\\n    --width:80\;\\n    --columnsAmount: 3\;\\n    column-count: 3\;\\n    width: 100%\\n}\\n.root::columnsLayout::pageWrapper{\\n    margin-left: -4px\;\\n    margin-right: -4px\;\\n    width: calc(100% + 8px)\;\\n    margin-bottom: -4px\;\\n    justify-content: space-between\\n}\\n.root::columnsLayout::pageStretchWrapper{\\n    width:980px\\n}\\n.root::columnsLayout::category{\\n    margin-top: 4px\\n}\\n.root::columnsLayout::flex{\\n    margin-bottom:-8px\\n}\\n.root::columnsLayout::listItem{\\n    margin-left: 4px\;\\n    margin-right: 4px\\n}\\n.root::columnsLayout::rowItem{\\n    margin-bottom:8px\\n}\\n.root::columnsLayout::menuItem{\\n    padding-left: 0px\;\\n    padding-right: 0px\;\\n    padding-top: 8px\;\\n    padding-bottom: 8px\;\\n    margin-bottom: 4px\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid rgba(255, 255, 255, 0)\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::menuItem::container{\\n    justify-content: flex-start\\n}\\n.root::columnsLayout::menuItem::label{\\n    -st-mixin: font_8\;font-family: madefor-text\;font-size: 15px\;font-style: normal\;font-weight: normal\;letter-spacing: 0em\;line-height: 1.4em\;\\n    letter-spacing: 0em\;\\n    color: #000000\;\\n    text-align: left\;\\n    background-color: rgba(255,255,255,0)\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n.root::columnsLayout::heading{\\n    background:#fff\;\\n    padding-left: 0px\;\\n    padding-right: 0px\;\\n    padding-top: 8px\;\\n    padding-bottom: 8px\;\\n    margin-bottom: 4px\\n}\\n.root::menuItem:isCurrentPage::label {\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\;\\n}\\n.root::menuItem:isHovered::label {\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\;\\n}\\n.root::columnsLayout::heading::container{\\n    justify-content: flex-start\\n}\\n.root::columnsLayout::heading::label{\\n    -st-mixin: font_8\;font-family: madefor-text\;font-size: 15px\;font-style: normal\;font-weight: normal\;letter-spacing: 0em\;line-height: 1.4em\;\\n    color: #000000\;\\n    letter-spacing: 0em\;\\n    text-decoration-line: underline\;\\n    text-align: left\;\\n    background-color: rgba(255,255,255,0)\\n}\\n.root::columnsLayout::heading::root {\\n    background-color: rgba(255,255,255,0)\;\\n    border: 1px solid rgba(255,255,255,0)\;\\n}\\n.root::columnsLayout::menuItem:isCurrentPage::label {\\n    text-decoration-line: underline\;\\n    background-color: rgba(255,255,255,0)\;\\n    color: #045AFF\;\\n}\\n.root::columnsLayout::menuItem:isHovered::label {\\n    text-decoration-line: underline\;\\n    background-color: rgba(255,255,255,0)\;\\n    color: #045AFF\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa3vcv.variants-ljclok8y1 {
+  height: auto;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableHorizontalMenu\;\\n}\\n.root{\\n    -st-extends: StylableHorizontalMenu\;\\n}\\n.root::menuItem:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER start */\\n.root::columnsLayout::heading{\\n  padding-top:10px\;\\n  padding-bottom:10px\;\\n  padding-left:10px\;\\n  padding-right:10px\;\\n  background-color: rgba(255, 255, 255, 0.5)\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::heading::label{\\n  font-size:16px\;\\n  font-weight: bold\;\\n  font-family: Helvetica, sans-serif\;\\n  color: #000\;\\n}\\n.root::columnsLayout::heading:isHovered::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::heading:isCurrentPage::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER end */";
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa3vcv.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableHorizontalMenu\;\\n}\\n.root{\\n    -st-extends: StylableHorizontalMenu\;\\n}\\n.root::menuItem:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER start */\\n.root::columnsLayout::heading{\\n  padding-top:10px\;\\n  padding-bottom:10px\;\\n  padding-left:10px\;\\n  padding-right:10px\;\\n  background-color: rgba(255, 255, 255, 0.5)\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::heading::label{\\n  font-size:16px\;\\n  font-weight: bold\;\\n  font-family: Helvetica, sans-serif\;\\n  color: #000\;\\n}\\n.root::columnsLayout::heading:isHovered::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::heading:isCurrentPage::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER end */";
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa467i {
+  height: 50px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 187.3125px;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 3.8997395833333335vw;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;border-radius: 0px\;padding-right: 0px\;background: rgba(255, 255, 255, 0)\;border: 1px solid value(site_1_5)}.root:hover {\\n    background: value(site_1_5)\;\\n    border: 1px solid value(site_1_5)\;\\n}.root:hover::icon {\\n    transform: rotate(2deg)\;\\n    fill: #FFFFFF\;}.root:hover::label {\\n    color: #FFFFFF\;\\n}.root:disabled{border: 0px solid #000000\;background: #EEEEEE}.root:disabled::label{\\n    color: #8D8D8D}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row\;justify-content: center\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;margin-left: 0px\;margin-right: 6px\;display: initial\;letter-spacing: 0em\;line-height: 1.4em\;letter-spacing: 0em\;line-height: 1.4em\;color: value(site_1_5)\;-st-mixin: font_9}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;fill: #000000\;margin-right: 0px\;margin-left: 6px\;width: 17px\;height: 17px\;display: none}";
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa467i.variants-ljclok8y1 {
+  height: 42px;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 208px;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableButton\;\\n}\\n.root{\\n    -st-extends: StylableButton\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lzfa467i.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableButton\;\\n}\\n.root{\\n    -st-extends: StylableButton\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2vgq0 {
+  height: auto;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-row-end: 4;
+  grid-row-start: 3;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2vgq0.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-row-end: 4;
+  grid-row-start: 3;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2vgq0.variants-ljclok922 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 5;
+  grid-row-start: 4;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2vize {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-row-end: 3;
+  grid-row-start: 2;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2vize.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-row-end: 3;
+  grid-row-start: 2;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2vize.variants-ljclok922 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 4;
+  grid-row-start: 3;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2vlfo {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2vlfo.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 3;
+  grid-column-start: 2;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2vlfo.variants-ljclok922 {
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,99.99999999999999%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 3;
+  grid-row-start: 2;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2xb03 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 92.0263350789777%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.00529625110162023%;
+  item-margin-left: 2%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(255,255,255);
+  font-size: 280spx;
+  min-font-size: 86px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2xb03.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 91.29219341813267%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0.0044147010239309024%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  color: rgb(255,255,255);
+  font-size: 80spx;
+  min-font-size: 80px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2xb03.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 95.10401392961877%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.004545454545447077%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  color: rgb(255,255,255);
+  font-size: 280spx;
+  min-font-size: 86px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2yqja {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(maxContent,100%);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0spx;
+  border-radius: 0spx;
+  box-shadow: disabled(0spx 0spx 0spx 0spx rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2yqja.variants-ljclok921 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2yqja.variants-ljclok922 {
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi2yvwa {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 53.85551330798479%;
+  align-self: start;
+  item-margin-bottom: 3.3688212927756656%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2yvwa.variants-ljclok921 {
+  align-self: start;
+  item-margin-bottom: 2.6053107151179944%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 20spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi2yvwa.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 51.948302469135804%;
+  align-self: start;
+  item-margin-bottom: 2.3485725308641974%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 18spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi304mm {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 99.88212927756653%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.11787072243346007%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.tpapps.TPAWidget;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.TPAWidgetSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-param\\_boolean\\_responsive-value: "true";
+  style-style-param\\_color\\_formBackground-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_formBackground-value: "color_11";
+  style-style-param\\_color\\_headerOneColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_headerOneColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_headerTwoColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_headerTwoColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputBackgroundColor-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_inputBackgroundColor-value: "color_11";
+  style-style-param\\_color\\_inputBorderColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputBorderColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputErrorColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputErrorColor-value: "color_15";
+  style-style-param\\_color\\_inputLabelColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputLabelColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputNoteColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputNoteColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputPlaceholderColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputPlaceholderColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputSelectionColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputSelectionColor-value: "color_11";
+  style-style-param\\_color\\_inputValueColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputValueColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_linkColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_linkColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_paragraphColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_paragraphColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_submitButtonBackgroundColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonBackgroundColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_submitButtonBackgroundColorHover-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonBackgroundColorHover-value: "color_11";
+  style-style-param\\_color\\_submitButtonBorderColor-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_submitButtonBorderColor-value: "rgba(255, 255, 255, 0)";
+  style-style-param\\_color\\_submitButtonBorderColorHover-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_submitButtonBorderColorHover-value: "color_11";
+  style-style-param\\_color\\_submitButtonColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonColor-value: "rgb(54, 10, 10)";
+  style-style-param\\_color\\_submitButtonColorHover-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonColorHover-value: "color_18";
+  style-style-param\\_font\\_headerOneFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_headerTwoFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputLabelFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputNoteFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputValueFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_paragraphFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_number\\_rowSpacing-value: "15.0";
+  style-type: ComponentStyle;
+}
+
+#comp-lzi304mm.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 99.86867516415604%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.09227142116042894%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi304mm.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 99.91801697530865%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.08198302469135803%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.tpapps.TPAWidget;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.TPAWidgetSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-param\\_boolean\\_responsive-value: "true";
+  style-style-param\\_color\\_formBackground-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_formBackground-value: "color_11";
+  style-style-param\\_color\\_headerOneColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_headerOneColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_headerTwoColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_headerTwoColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputBackgroundColor-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_inputBackgroundColor-value: "color_11";
+  style-style-param\\_color\\_inputBorderColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputBorderColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputErrorColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputErrorColor-value: "color_15";
+  style-style-param\\_color\\_inputLabelColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputLabelColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputNoteColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputNoteColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputPlaceholderColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputPlaceholderColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_inputSelectionColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputSelectionColor-value: "color_11";
+  style-style-param\\_color\\_inputValueColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_inputValueColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_linkColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_linkColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_paragraphColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_paragraphColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_submitButtonBackgroundColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonBackgroundColor-value: "rgb(255, 255, 255)";
+  style-style-param\\_color\\_submitButtonBackgroundColorHover-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonBackgroundColorHover-value: "color_11";
+  style-style-param\\_color\\_submitButtonBorderColor-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_submitButtonBorderColor-value: "rgba(255, 255, 255, 0)";
+  style-style-param\\_color\\_submitButtonBorderColorHover-additionalData-alpha: "0.0";
+  style-style-param\\_color\\_submitButtonBorderColorHover-value: "color_11";
+  style-style-param\\_color\\_submitButtonColor-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonColor-value: "rgb(54, 10, 10)";
+  style-style-param\\_color\\_submitButtonColorHover-additionalData-alpha: "1.0";
+  style-style-param\\_color\\_submitButtonColorHover-value: "color_18";
+  style-style-param\\_font\\_headerOneFont-value: "{\\"style\\":{\\"bold\\":true,\\"italic\\":false,\\"underline\\":false},\\"size\\":20,\\"preset\\":\\"Custom\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_headerTwoFont-value: "{\\"style\\":{\\"bold\\":true,\\"italic\\":false,\\"underline\\":false},\\"size\\":20,\\"preset\\":\\"Custom\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputLabelFont-value: "{\\"style\\":{\\"bold\\":false,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Body-S\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputNoteFont-value: "{\\"style\\":{\\"bold\\":true,\\"italic\\":false,\\"underline\\":false},\\"size\\":14,\\"preset\\":\\"Custom\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_inputValueFont-value: "{\\"style\\":{\\"bold\\":true,\\"italic\\":false,\\"underline\\":false},\\"size\\":16,\\"preset\\":\\"Custom\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_font\\_paragraphFont-value: "{\\"style\\":{\\"bold\\":true,\\"italic\\":false,\\"underline\\":false},\\"size\\":15,\\"preset\\":\\"Custom\\",\\"family\\":\\"nunito sans\\",\\"fontStyleParam\\":true}";
+  style-style-param\\_number\\_rowSpacing-value: "15.0";
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3q9ue {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 56.58997207075409%;
+  align-self: start;
+  item-margin-bottom: 10.03125px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3q9ue.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 18spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3q9ue.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 20spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3s3l2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3s3l2.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3s3l2.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3sx2k {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 17.449128873520415%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3sx2k.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 13.573957343925395%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi3sx2k.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 8.002082971706301%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi3tann {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 95.74411490889746%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0.006649820454847719%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tann.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi3tann.variants-ljclok922 {
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi3tanp2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 59.105431309904155%;
+  align-self: start;
+  item-margin-bottom: 10px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tanp2.variants-ljclok921 {
+  align-self: start;
+  item-margin-bottom: 10px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 20spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tanp2.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 18spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tanq7 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tanq7.variants-ljclok921 {
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3tanq7.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65e4 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 59.105431309904155%;
+  align-self: start;
+  item-margin-bottom: 4.445061814140853%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65e4.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 18spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65e4.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  font-size: 20spx;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65g2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65g2.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi3u65g2.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4c3i2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4c3i2.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4c3i2.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4ccs2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 4;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4ccs2.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4ccs2.variants-ljclok921 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4cmow {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 28.462286428670648%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4cmow.variants-ljclok921 {
+  align-self: start;
+  item-margin-bottom: 22.857682239759864%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4cmow.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 97.15782878623911%;
+  align-self: start;
+  item-margin-bottom: 18.79680166363904%;
+  item-margin-left: 2.6541041398290552%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4erwc3 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0.013890818169190165%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwc3.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 89.02229845626071%;
+  align-self: start;
+  item-margin-bottom: 0.011575799231961692%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwc3.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwd1 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: -0.013890818169190165%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwd1.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 82.31370306842005%;
+  align-self: start;
+  item-margin-bottom: -0.011575799231961692%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwd1.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: -0.023449407902450464%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwe1 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 3;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwe1.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4erwe1.variants-ljclok922 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  color: rgb(255,255,255);
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4f1k2 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4f1k2.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4f1k2.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 97.15782878623911%;
+  align-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4ppz0 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 71.592spx;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 33.525spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4ppz0.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 91.89spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 8.125spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4ppz0.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 180.039spx;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 32.688spx;
+  item-margin-top: 0spx;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4pw0z {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 68.545spx;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4pw0z.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 85.344spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4pw0z.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 146.84375spx;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0.609375spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4pz87 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.07082031250007503%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzi4pz87.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0%;
+  item-margin-left: 3.6941862981023%;
+  item-margin-right: 0%;
+  item-margin-top: 0vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzi4pz87.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 30px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 30.5px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzjldbfn {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 69.64487574718623%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.005275003516664695%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.06885044750672403%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzjldbfn.variants-ljclok921 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 89.95005180150756%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.08070249528317651%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzjldbfn.variants-ljclok922 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: -0.009645061728395061%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0.06751543209876543%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzl0vvpo {
+  opacity: 1;
+  design-type: VectorImageDesignData;
+  height: aspect-ratio(1);
+  hidden: true;
+  component-layout: ComponentLayout;
+  width: 6.25%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: start;
+  item-margin-bottom: 113.02083333333333%;
+  item-margin-left: 2.34375%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: i8yjldkl_0;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lzl0vvpo.variants-ljclok8y1 {
+  height: aspect-ratio(1);
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 5.338541666666667%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 3.9vw;
+  item-margin-right: 0%;
+  item-margin-top: 1.7vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzl0vvpo.variants-ljclok8y2 {
+  height: 28px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 28px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 3.8982371794871793vw;
+  item-margin-right: 0%;
+  item-margin-top: 6.378205128205129vw;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lzl11nwb {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 35.99853515625%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: center;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 13.020833333333334%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzl11nwb.variants-ljclok8y1 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 41.004435221354164%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: center;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 5.498250325520833%;
+  item-margin-top: 13.020833333333334%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzl11nwb.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 73.88221153846153%;
+  flex-direction: column;
+  container-layout: StackContainerLayout;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  layout-itemLayout-id: "";
+  justify-self: center;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0.004006410256410256%;
+  item-margin-top: 21.891025641025642%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzrdnk2u {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 52.747spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 3.275spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  font-size: 280spx;
+  max-font-size: 30px;
+  min-font-size: 30px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzrdnk2u.variants-ljclok8y1 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 71.026spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 5.332spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  font-size: 280spx;
+  max-font-size: 30px;
+  min-font-size: 30px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzrdnk2u.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 124.016spx;
+  align-self: start;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0spx;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-blendMode-value: "normal";
+  font-size: 20spx;
+  max-font-size: 30px;
+  min-font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lzrdpc48 {
+  height: auto;
+  hidden: false;
+  min-height: 0px;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  container-layout: StackContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0.004494385254389397%;
+  item-margin-left: 14.379785621418874%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lzrdpc48.variants-ljclok8y1 {
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 14.373779296875%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lzrdpc48.variants-ljclok8y2 {
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 2.785681818181815%;
+  item-margin-left: 15px;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-m1gbkjde {
+  height: 42px;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 142px;
+  align-self: start;
+  layout-itemLayout-id: "";
+  item-margin-bottom: 0%;
+  item-margin-left: 24.31897818469538%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;background: #000000\;border-radius: 0px\;padding-right: 0px}.root:hover {\\n    border: 1px solid #000000\;\\n    background: #FFFFFF\;\\n}.root:hover::icon {\\n    transform: rotate(2deg)\;\\n    fill: #000000\;}.root:hover::label {\\n    color: #000000\;\\n}.root:disabled{\\n    background: #EEEEEE}.root:disabled::label{\\n    color: #8D8D8D}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;color: #FFFFFF\;display: initial\;-st-mixin: font_8\;font-family: madefor-text\;font-size: 10px\;font-style: normal\;font-weight: normal\;letter-spacing: 0em\;line-height: 1.4em\;font-family: madefor-text\;font-size: 10px\;font-style: normal\;font-weight: normal\;letter-spacing: 0em\;line-height: 1.4em\;font-size: 14px}.root::icon{transition: inherit\;width: 25px\;height: 25px\;margin: 0px 4px 0px 0px\;fill: #FFFFFF\;display: none}";
+  style-type: ComponentStyle;
+}
+
+#comp-m1gbkjde.variants-ljclok8y1 {
+  height: 58px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 314.91796875px;
+  align-self: center;
+  layout-itemLayout-id: "";
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableButton\;\\n}\\n.root{\\n    -st-extends: StylableButton\;\\n    background: rgba(237, 233, 229, 0)\;\\n}\\n.root:hover {\\n    background: rgba(237, 233, 229, 0)\;\\n    border: 0px solid value(site_1_4)\;\\n}\\n.root:hover::label {\\n    color: value(site_2_4)\;\\n}\\n.root::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-family: madefor-text\;\\n    font-size: 40px\;\\n    font-weight: normal\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-m1gbkjde.variants-ljclok8y2 {
+  align-self: center;
+  layout-itemLayout-id: "";
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableButton\;\\n}\\n.root{\\n    -st-extends: StylableButton\;\\n    background: rgba(237, 233, 229, 0)\;\\n}\\n.root:hover {\\n    background: rgba(237, 233, 229, 0)\;\\n    border: 0px solid value(site_1_4)\;\\n}\\n.root:hover::label {\\n    color: value(site_2_4)\;\\n}\\n.root::label {\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    font-family: madefor-text\;\\n    font-size: 40px\;\\n    font-weight: normal\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#masterPage {
+  layout-anchors: [{"distance":0,"locked":false,"targetComponent":"PAGES_CONTAINER","type":"BOTTOM_TOP"}];
+  layout-rotationInDegrees: 0;
+  layout-type: "ClassicLayout";
+  layout-y: 0;
+}
+
+#PAGES_CONTAINER {
+  layout-fixedPosition: false;
+  layout-height: 500;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 111;
+}
+
+#SITE_FOOTER {
+  layout-fixedPosition: false;
+  layout-height: 132;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 611;
+}
+
+#SITE_HEADER {
+  layout-fixedPosition: false;
+  layout-height: 111;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 0;
+}
+
+#SITE_PAGES {
+  layout-fixedPosition: false;
+  layout-height: 500;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 0;
+}

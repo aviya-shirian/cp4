@@ -1,0 +1,60 @@
+<Page codeName="page1" id="aunlt">
+  <RefComponent id="comp-lzjh3qjm" />
+  <Section codeName="section7" id="comp-lzjh3qh0">
+    <Container codeName="box8" id="comp-lzjh4mqh">
+      <WRichText codeName="text10" id="comp-lzjh95f1">
+        <![CDATA[<h1 class="font_0"><span>Our World</span></h1>]]>
+      </WRichText>
+    </Container>
+    <Container codeName="box7" id="comp-lzjh4mu5">
+      <WRichText codeName="text9" id="comp-lzjhczsw">
+        <![CDATA[<p class="font_7" style="text-align:center"><span>This is the space to introduce visitors to the business or brand. Briefly explain who&#39;s behind it, what it does and what makes it unique. Share its core values and what this site has to offer.</span></p>]]>
+      </WRichText>
+    </Container>
+  </Section>
+  <Section codeName="section6" id="comp-lzjhelmq" />
+  <Section codeName="section5" id="comp-lzjhglhn">
+    <Container codeName="box6" id="comp-lzjhgqez">
+      <Container codeName="box5" id="comp-lzjjk14q">
+        <WRichText codeName="text8" id="comp-lzjjfb70">
+          <![CDATA[<h2 class="font_2">Key Location</h2>]]>
+        </WRichText>
+        <WRichText codeName="text7" id="comp-lzjjgatt">
+          <![CDATA[<h3 class="font_4"><span>Discover the pulse of the city</span></h3>]]>
+        </WRichText>
+        <WRichText codeName="text6" id="comp-lzjjhkkc">
+          <![CDATA[<p class="font_7">Use this space to promote the business, its products or its services. Help people become familiar with the business and its offerings, creating a sense of connection and trust. Focus on what makes the business unique and how users can benefit from choosing it.</p>]]>
+        </WRichText>
+        <StylableButton codeName="button2" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzjjimsh">
+          Book Your Stay
+        </StylableButton>
+      </Container>
+    </Container>
+    <Container codeName="box4" id="comp-lzjhgqi0">
+      <ImageX alt="image 2.jpg" codeName="imageX2" displayMode="fill" id="comp-lzjjlxiv" name="image 2.jpg" src="c837a6_b44ce513f7a746f791b1b75b79a434c9~mv2.jpg?width=1128&amp;height=1498" />
+    </Container>
+  </Section>
+  <Section codeName="section4" id="comp-lzjjntbp">
+    <Container codeName="box3" id="comp-lzjjntcc">
+      <ImageX alt="image 9.jpg" codeName="imageX1" displayMode="fill" id="comp-lzjjntcc4" name="image 9.jpg" src="c837a6_f2510e44a8d04e2b9b1168af50a1a3d8~mv2.jpg?width=1128&amp;height=1498" />
+    </Container>
+    <Container codeName="box2" id="comp-lzjjntc22">
+      <Container codeName="box1" id="comp-lzjjntc4">
+        <WRichText codeName="text5" id="comp-lzjjntc52">
+          <![CDATA[<h2 class="font_2">Eclectic Luxurious Chic</h2>]]>
+        </WRichText>
+        <WRichText codeName="text4" id="comp-lzjjntc71">
+          <![CDATA[<h3 class="font_4">A fusion of contemporary style and exceptional comfort</h3>]]>
+        </WRichText>
+        <WRichText codeName="text3" id="comp-lzjjntc85">
+          <![CDATA[<p class="font_7">Use this space to promote the business, its products or its services. Help people become familiar with the business and its offerings, creating a sense of connection and trust. Focus on what makes the business unique and how users can benefit from choosing it.</p>]]>
+        </WRichText>
+        <StylableButton codeName="button1" href="https://www.wix.com/templateslp/studio-external-link" id="comp-lzjjntc96">
+          Book Now
+        </StylableButton>
+      </Container>
+    </Container>
+  </Section>
+  <RefComponent id="comp-lzjh3qlc" />
+  <RefComponent id="comp-lzjh3qmu" />
+</Page>

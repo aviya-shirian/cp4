@@ -1,0 +1,120 @@
+{
+  "externalRefs": {
+    "comp-kd5px9hr": "comp-kd5px9hr"
+  },
+  "components": {
+    "bgy5l": {
+      "breakpointVariants": {
+        "componentId": "bgy5l",
+        "type": "BreakpointsData",
+        "values": [
+          {
+            "canvasSize": 1280,
+            "id": "variants-lzi2neq2",
+            "max": 2147483647,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 768,
+            "id": "variants-lzi2neq21",
+            "max": 1000,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 390,
+            "id": "variants-lzi2neq22",
+            "max": 750,
+            "min": 320,
+            "type": "BreakpointRange"
+          }
+        ]
+      },
+      "data": {
+        "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+        "descriptionSEO": "",
+        "hidePage": true,
+        "hideTitle": true,
+        "icon": "",
+        "id": "bgy5l",
+        "isLandingPage": true,
+        "metaKeywordsSEO": "",
+        "pageBackgrounds": {
+          "desktop": {
+            "custom": true,
+            "isPreset": true,
+            "ref": {
+              "alignType": "center",
+              "color": "{color_11}",
+              "fittingType": "fill",
+              "scrollType": "none",
+              "type": "BackgroundMedia"
+            }
+          },
+          "mobile": {
+            "custom": true,
+            "isPreset": true,
+            "mediaSizing": "viewport",
+            "ref": {
+              "alignType": "center",
+              "color": "{color_11}",
+              "colorOverlay": "",
+              "colorOverlayOpacity": 0,
+              "fittingType": "fill",
+              "scrollType": "none",
+              "type": "BackgroundMedia"
+            }
+          }
+        },
+        "pageTitleSEO": "",
+        "pageUriSEO": "fullscreen-page",
+        "title": "Fullscreen Page",
+        "tpaApplicationId": 1606,
+        "tpaPageId": "fullscreen_page",
+        "translationData": {
+          "uriSEOTranslated": false
+        },
+        "type": "Page",
+        "underConstruction": false
+      },
+      "fixerVersions": {
+        "migration_fixer": "AAMBAQEBAQEBAQEBAQICAgECAgEIAQECAQEBAAIBAAEAAQEBAQEEAQAFAQAAAQABAQEBAQIAAQIBAAAA",
+        "type": "FixerVersions",
+        "viewer_fixer": "AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA=="
+      },
+      "mobileHints": {
+        "hidden": false,
+        "type": "MobileHints"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+      }
+    },
+    "comp-lzi2ngss": {
+      "data": {
+        "rootCompId": "comp-kd5px9hr",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "TPAMultiSection_lzi2neps": {
+      "data": {
+        "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
+        "applicationId": "1606",
+        "id": "dataItem-lzi2neq9",
+        "type": "TPAMultiSection",
+        "usesCssPerBreakpoint": false,
+        "widgetId": "144f04b9-aab4-fde7-179b-780c11da4f46"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.TPASectionSkin"
+      }
+    }
+  },
+  "appControllers": {},
+  "collections": {},
+  "version": "0.0.25"
+}

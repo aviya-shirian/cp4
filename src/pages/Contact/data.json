@@ -1,0 +1,460 @@
+{
+  "externalRefs": {
+    "comp-kbgajy18": "comp-kbgajy18",
+    "comp-kbgakgyt": "comp-kbgakgyt",
+    "comp-kd5px9hr": "comp-kd5px9hr"
+  },
+  "components": {
+    "comp-lzjm8afu": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "Intro",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjm8ahv": {
+      "data": {
+        "rootCompId": "comp-kbgajy18",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjm8ajg": {
+      "data": {
+        "rootCompId": "comp-kbgakgyt",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjm8ako": {
+      "data": {
+        "rootCompId": "comp-kd5px9hr",
+        "type": "InternalRef"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.ResponsiveContainerRefSkin"
+      }
+    },
+    "comp-lzjm9o7r": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkyuznk",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjm9o7r",
+            "id": "variants-lzkyuzng",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjmaw04": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjmaw3q": {
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      }
+    },
+    "comp-lzjmb2k3": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkyvgfw",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjmb2k3",
+            "id": "variants-lzkyvgfe",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjpnm5e": {
+      "data": {
+        "appDefinitionId": "225dd912-7dea-4738-8688-4b8c6955ffc2",
+        "applicationId": "34",
+        "id": "dataItem-lzjpnm5s",
+        "tpaData": {
+          "content": "{\"presetId\":\"blankFormApp\",\"formId\":\"bebaaf0d-6f0e-40e8-85f2-101238eaf3c8\"}",
+          "type": "TPAData"
+        },
+        "type": "TPAWidget",
+        "usesCssPerBreakpoint": true,
+        "widgetId": "371ee199-389c-4a93-849e-e35b8a15b7ca"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.TPAWidgetSkin"
+      }
+    },
+    "comp-lzjptvqc": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjpvkbx": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjpwc17": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjpwr2c": {
+      "data": {
+        "linkList": [],
+        "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+        "type": "StyledText"
+      },
+      "props": {
+        "packed": true,
+        "type": "WRichTextProperties"
+      },
+      "source": {
+        "current": "template",
+        "original": "template",
+        "type": "Source"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.WRichTextThemeSkin"
+      }
+    },
+    "comp-lzjpxbdj": {
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkyv52p",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjpxbdj",
+            "id": "variants-lzkyv527",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjpycsr": {
+      "editorsettings": {
+        "layoutIntent": "SuperGrid",
+        "type": "EditorSettings"
+      },
+      "naming": {
+        "name": "FAQ",
+        "type": "naming"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+      }
+    },
+    "comp-lzjpzcp4": {
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "effects": {
+        "type": "EffectsList",
+        "values": [
+          {
+            "id": "effects-lzkyvl2f",
+            "name": "FloatIn",
+            "type": "TimeAnimation",
+            "value": {
+              "default": {
+                "delay": 0,
+                "duration": 1200,
+                "fill": "backwards",
+                "namedEffect": {
+                  "direction": "bottom",
+                  "type": "FloatIn"
+                },
+                "type": "TimeAnimationOptions"
+              },
+              "variants": []
+            }
+          }
+        ]
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+      },
+      "triggers": {
+        "type": "Triggers",
+        "values": [
+          {
+            "componentId": "comp-lzjpzcp4",
+            "id": "variants-lzkyvl2d",
+            "params": {
+              "threshold": 0.15
+            },
+            "trigger": "viewport-enter",
+            "type": "Trigger"
+          }
+        ]
+      }
+    },
+    "comp-lzjq1ony": {
+      "data": {
+        "appDefinitionId": "14c92d28-031e-7910-c9a8-a670011e062d",
+        "applicationId": "2052",
+        "id": "dataItem-lzjq1ooq",
+        "tpaData": {
+          "content": "{\"faq_en__65d9946e-af96-4212-937d-f44038f6f13b_comp-lzjq1ony\":{\"title\":\"FAQ\",\"searchBar\":\"Looking for something?\"},\"questionTextFontTag\":\"h3\",\"headerTextFontTag\":\"h2\"}",
+          "type": "TPAData"
+        },
+        "type": "TPAWidget",
+        "usesCssPerBreakpoint": false,
+        "widgetId": "14c92de1-0e02-cbe5-98e9-c3de44d63a55"
+      },
+      "editorsettings": {
+        "sizingBehavior": "preset",
+        "type": "EditorSettings"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.TPAWidgetSkin"
+      }
+    },
+    "umk2x": {
+      "breakpointVariants": {
+        "componentId": "umk2x",
+        "type": "BreakpointsData",
+        "values": [
+          {
+            "canvasSize": 1280,
+            "id": "variants-lzjm8ah8",
+            "max": 2147483647,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 768,
+            "id": "variants-lzjm8ah81",
+            "max": 1000,
+            "min": 320,
+            "type": "BreakpointRange"
+          },
+          {
+            "canvasSize": 390,
+            "id": "variants-lzjm8ah82",
+            "max": 750,
+            "min": 320,
+            "type": "BreakpointRange"
+          }
+        ]
+      },
+      "data": {
+        "descriptionSEO": "",
+        "hidePage": false,
+        "hideTitle": true,
+        "icon": "",
+        "id": "umk2x",
+        "metaKeywordsSEO": "",
+        "pageBackgrounds": {
+          "desktop": {
+            "custom": true,
+            "isPreset": true,
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          },
+          "mobile": {
+            "custom": true,
+            "isPreset": true,
+            "mediaSizing": "viewport",
+            "ref": {
+              "alignType": "top",
+              "color": "{color_11}",
+              "colorOverlay": "",
+              "colorOverlayOpacity": 0,
+              "fittingType": "fill",
+              "scrollType": "fixed",
+              "type": "BackgroundMedia"
+            }
+          }
+        },
+        "pageTitleSEO": "",
+        "pageUriSEO": "contact",
+        "title": "Contact",
+        "tpaApplicationId": 0,
+        "translationData": {
+          "uriSEOTranslated": false
+        },
+        "type": "Page",
+        "underConstruction": false
+      },
+      "fixerVersions": {
+        "migration_fixer": "AAMBAQEBAQEBAQEBAQICAgECAgEIAQECAQEBAAIBAAEAAQEBAQEEAQAFAQAAAQABAQEBAQIAAQIBAAAA",
+        "type": "FixerVersions",
+        "viewer_fixer": "AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA=="
+      },
+      "mobileHints": {
+        "hidden": false,
+        "type": "MobileHints"
+      },
+      "structure": {
+        "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+      }
+    }
+  },
+  "appControllers": {},
+  "collections": {},
+  "version": "0.0.25"
+}
