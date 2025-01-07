@@ -192,9 +192,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/cli@file:/Users/aviyash/projects/wix-cli/packages/cli::locator=root-workspace-0b6124%40workspace%3A.":
-  version: 1.1.51
-  resolution: "@wix/cli@file:/Users/aviyash/projects/wix-cli/packages/cli#/Users/aviyash/projects/wix-cli/packages/cli::hash=a1d052&locator=root-workspace-0b6124%40workspace%3A."
+"@wix/cli@https://cdn.dev.wixpress.com/@wix/cli/74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6.tar.gz":
+  version: 0.0.0-74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6
+  resolution: "@wix/cli@https://cdn.dev.wixpress.com/@wix/cli/74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6.tar.gz"
   dependencies:
     fsevents: "npm:^2.3.2"
     node-gyp: "npm:^8.4.1"
@@ -203,7 +203,7 @@ __metadata:
       optional: true
   bin:
     wix: bin/wix.cjs
-  checksum: 10c0/5319997f3d7ec69a39a08ca0a94ac11def945d8b1871d35e6d535dbcbb8b3ce924f6826340d04f8a0bd6cd2e7b6398b073611bcb898261dbbd477f5412b9a1f3
+  checksum: 10c0/0a0a95bdd507ee4934e0adc6bd9872f235749c3d2dfba92925a36f0440b5eeb799967a29e6603b10bbc30cd3e8f2785d42ebd5b559134cab59c63be066c3d523
   languageName: node
   linkType: hard
 
@@ -1856,7 +1856,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@wix/cli": /Users/aviyash/projects/wix-cli/packages/cli
+    "@wix/cli": "https://cdn.dev.wixpress.com/@wix/cli/74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6.tar.gz"
     "@wix/eslint-plugin-cli": "npm:^1.0.0"
     eslint: "npm:^8.25.0"
     react: "npm:16.14.0"
