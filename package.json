@@ -1,7 +1,7 @@
 {
   "packageManager": "yarn@4.4.1",
   "devDependencies": {
-    "@wix/cli": "https://cdn.dev.wixpress.com/@wix/cli/74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6.tar.gz",
+    "@wix/cli": "file:./74a5ce9a4256d00181afc1fd9d09549bde63c5bbaa2cf67fb05951f6.tar.gz",
     "@wix/eslint-plugin-cli": "^1.0.0",
     "eslint": "^8.25.0",
     "react": "16.14.0"
