@@ -1,0 +1,39 @@
+name: Preview
+on:
+  pull_request:
+    branches: ["main"] # or "master", your default branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Echo message
+        run: echo "This is a test job initiated by ${{ vars.CURRENT_USER }}"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Authenticate Wix CLI
+        run: npx wix login --api-key ${{ secrets.WIX_CLI_API_KEY }}
+
+      - id: preview
+        name: Create Deployment Preview
+        uses: mathiasvr/command-output@v2.0.0
+        with:
+          run: npm run preview
+
+      - name: Comment with Preview URL
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: ${{ steps.preview.outputs.stdout }}
+          refresh-message-position: true
